@@ -80,7 +80,8 @@
 - [AdversarialNetsPapers][46]
 - [deep-reinforcement-learning-papers][47]
 - [BIGBALLON/cifar-10-cnn][48]
-- 
+- [aymericdamien/TensorFlow-Examples][49]
+- [openai/baselines][50]
 
 
   [1]: https://arxiv.org/abs/1312.4400
@@ -131,3 +132,5 @@
   [46]: https://github.com/zhangqianhui/AdversarialNetsPapers
   [47]: https://github.com/junhyukoh/deep-reinforcement-learning-papers
   [48]: https://github.com/BIGBALLON/cifar-10-cnn
+  [49]: https://github.com/aymericdamien/TensorFlow-Examples
+  [50]: https://github.com/openai/baselines
