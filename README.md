@@ -16,13 +16,13 @@
 - (**DenseNet**) Huang, Gao, et al. "**Densely connected convolutional networks**." (**2016**). [[arXiv:1608.06993][8]] 
 - (**DPN**) Chen, Yunpeng, et al. "**Dual path networks**." Advances in Neural Information Processing Systems. (**2017**). [[arXiv:1707.01629][9]]
 - (**SENet**) Hu, Jie, Li Shen, and Gang Sun. "**Squeeze-and-excitation networks**." (**2017**). [[arXiv:1709.01507][10]]
-- (**CondenseNet**) Huang, Gao, et al. "CondenseNet: An Efficient DenseNet using Learned Group Convolutions." (**2017**). [[arXiv:1711.09224][11]] 
+- (**CondenseNet**) Huang, Gao, et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (**2017**). [[arXiv:1711.09224][11]] 
 
 ## Generative Adversarial Network
 
 - Goodfellow, Ian, et al. "**Generative adversarial nets**." Advances in neural information processing systems. (**2014**). [[arXiv:1406.2661][12]]
 - Mirza, Mehdi, and Simon Osindero. "**Conditional generative adversarial nets**." (**2014**). [[arXiv:1411.1784][13]]
-- Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." (**2015**). [[arXiv:1511.06434][14]]
+- Radford, Alec, Luke Metz, and Soumith Chintala. "**Unsupervised representation learning with deep convolutional generative adversarial networks**." (**2015**). [[arXiv:1511.06434][14]]
 - Reed, Scott, et al. "**Generative adversarial text to image synthesis**." (**2016**). [[arXiv:1605.05396][15]]
 - Shrivastava, Ashish, et al. "**Learning from simulated and unsupervised images through adversarial training**."(**2016**). [[arXiv:1612.07828][16]]
 - Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "**Wasserstein gan**." (**2017**). [[arXiv:1701.07875][17]]
@@ -82,6 +82,7 @@
 - [BIGBALLON/cifar-10-cnn][48]
 - [aymericdamien/TensorFlow-Examples][49]
 - [openai/baselines][50]
+- [rlcode/reinforcement-learning][51]
 
 
   [1]: https://arxiv.org/abs/1312.4400
@@ -134,3 +135,4 @@
   [48]: https://github.com/BIGBALLON/cifar-10-cnn
   [49]: https://github.com/aymericdamien/TensorFlow-Examples
   [50]: https://github.com/openai/baselines
+  [51]: https://github.com/rlcode/reinforcement-learning
