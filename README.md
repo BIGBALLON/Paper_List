@@ -17,7 +17,7 @@
 - (**DPN**) Chen, Yunpeng, et al. "**Dual path networks**." Advances in Neural Information Processing Systems. (**2017**). [[arXiv:1707.01629][9]]
 - (**SENet**) Hu, Jie, Li Shen, and Gang Sun. "**Squeeze-and-excitation networks**." (**2017**). [[arXiv:1709.01507][10]]
 - (**CondenseNet**) Huang, Gao, et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (**2017**). [[arXiv:1711.09224][11]] 
-- (**GN**) Yuxin Wu, Kaiming He. "**Group Normalization**." (**2018**). [arXiv:1803.08494][12]
+- (**GN**) Yuxin Wu, Kaiming He. "**Group Normalization**." (**2018**). [[arXiv:1803.08494][12]]
 
 ## Optimizers
 
@@ -47,7 +47,7 @@
     - Other improvements:
         - (**DDQN**) Van Hasselt, Hado, Arthur Guez, and David Silver. "**Deep Reinforcement Learning with Double Q-Learning**." AAAI. **2016**. [[arXiv:1509.06461][27]]
         - Schaul, Tom, et al. "**Prioritized experience replay**."(**2015**). [[arXiv:1511.05952][28]] 
-        - Wang, Ziyu, et al. "**Dueling network architectures for deep reinforcement learning**." (**2015**). [[arXiv:1511.06581][29]]  [ICML2016 Best Paper]
+        - Wang, Ziyu, et al. "**Dueling network architectures for deep reinforcement learning**." (**2015**). [[arXiv:1511.06581][29]]  [ICML2016 **Best Paper**]
 - **Actor-Critic**
     - (**DDPG**) Lillicrap, Timothy P., et al. "**Continuous control with deep reinforcement learning**." (**2015**). [[arXiv:1509.02971][30]]
     - (**A3C**) Mnih, Volodymyr, et al. "**Asynchronous methods for deep reinforcement learning**." ICML (**2016**). [[arXiv:1602.01783][31]] :star:
@@ -85,6 +85,8 @@
     -  Vinyals, Oriol, et al. "**StarCraft II: a new challenge for reinforcement learning**." (**2017**). [[arXiv:1708.04782][51]]    
     -  Maddison, Chris J., et al. "**Move evaluation in go using deep convolutional neural networks**." (**2014**). [[arXiv:1412.6564][52]]
     -  Soeda, Shunsuke, Tomoyuki Kaneko, and Tetsuro Tanaka. "**Dual lambda search and shogi endgames**." Advances in Computer Games. Springer, Berlin, Heidelberg, (**2005**).
+    -  Cazenave, Tristan. "**Residual networks for computer Go.**" _IEEE Transactions on Games_ 10.1 (2018): 107-110.
+
     
 ## Others 
 
