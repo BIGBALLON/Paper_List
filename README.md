@@ -11,9 +11,11 @@
 - (**BN**) Ioffe, Sergey, and Christian Szegedy. "**Batch normalization: Accelerating deep network training by reducing internal covariate shift**." International Conference on Machine Learning. (**2015**). [[arXiv:1502.03167][3]]
 - (**ResNet**) He, Kaiming, et al. "**Deep residual learning for image recognition**." Proceedings of the IEEE conference on computer vision and pattern recognition. (**2016**). [[arXiv:1512.03385][4]]  [CVPR 2016 Best Paper] :star:
 - (**Pre-active**) He, Kaiming, et al. "**Identity mappings in deep residual networks**." European Conference on Computer Vision. Springer International Publishing. (**2016**). [[arXiv:1603.05027][5]]
+- Huang, Gao, et al. "**Deep networks with stochastic depth.**" European Conference on Computer Vision. Springer, Cham, 2016. [[arXiv:1603.09382](https://arxiv.org/abs/1603.09382)]
 - (**Wide ResNet**) Zagoruyko, Sergey, and Nikos Komodakis. "**Wide residual networks**." (**2016**). [[arXiv:1605.07146][6]]
 - (**ResNeXt**) Xie, Saining, et al. "**Aggregated residual transformations for deep neural networks**." 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, (**2017**). [[arXiv:1611.05431][7]]
 - (**DenseNet**) Huang, Gao, et al. "**Densely connected convolutional networks**." (**2016**). [[arXiv:1608.06993][8]] 
+- Pleiss, Geoff, et al. "**Memory-efficient implementation of densenets**." arXiv preprint (**2017**). [[arXiv:1707.06990](https://arxiv.org/abs/1707.06990)]
 - (**DPN**) Chen, Yunpeng, et al. "**Dual path networks**." Advances in Neural Information Processing Systems. (**2017**). [[arXiv:1707.01629][9]]
 - (**SENet**) Hu, Jie, Li Shen, and Gang Sun. "**Squeeze-and-excitation networks**." (**2017**). [[arXiv:1709.01507][10]]
 - (**CondenseNet**) Huang, Gao, et al. "**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**." (**2017**). [[arXiv:1711.09224][11]] 
@@ -27,6 +29,7 @@
 - Loshchilov, Ilya, and Frank Hutter. "**SGDR: stochastic gradient descent with restarts**." arXiv preprint (2016). [[arXiv:1608.03983][16]] :star:
 - Smith, Leslie N. "**Cyclical learning rates for training neural networks.**" Applications of Computer Vision (WACV), 2017 IEEE Winter Conference on. IEEE, 2017. [[arXiv:1506.01186][17]]
 - Gastaldi, Xavier. "**Shake-shake regularization.**" arXiv preprint (**2017**). [[arXiv:1705.07485][18]]
+- Huang, Gao, et al. "**Snapshot ensembles: Train 1, get M for free**." arXiv preprint (**2017**). [[arXiv:1704.00109](https://arxiv.org/abs/1704.00109)]
 
 ## Generative Adversarial Network
 
