@@ -30,6 +30,7 @@
 - Smith, Leslie N. "**Cyclical learning rates for training neural networks.**" Applications of Computer Vision (WACV), 2017 IEEE Winter Conference on. IEEE, 2017. [[arXiv:1506.01186][17]]
 - Gastaldi, Xavier. "**Shake-shake regularization.**" arXiv preprint (**2017**). [[arXiv:1705.07485][18]]
 - Huang, Gao, et al. "**Snapshot ensembles: Train 1, get M for free**." arXiv preprint (**2017**). [[arXiv:1704.00109](https://arxiv.org/abs/1704.00109)]
+- Jaderberg, Max, et al. "**Population based training of neural networks**." arXiv preprint (**2017**). [[arXiv:1711.09846](https://arxiv.org/abs/1711.09846)] 
 
 ## Generative Adversarial Network
 
@@ -79,16 +80,27 @@
     - Wu, I-Chen, et al. "**Multi-stage temporal difference learning for 2048**." Technologies and Applications of Artificial Intelligence. Springer, Cham, (**2014**).
     - Yeh, Kun-Hao, et al. "**Multi-stage temporal difference learning for 2048-like games**." IEEE Transactions on Computational Intelligence and AI in Games (**2016**).
     - Jaskowski, Wojciech. "**Mastering 2048 with Delayed Temporal Coherence Learning, Multi-Stage Weight Promotion, Redundant Encoding and Carousel Shaping**." IEEE Transactions on Computational Intelligence and AI in Games (**2017**). :star:
+- **MCTS**
+    - (**UCS**)Brügmann, Bernd. "**Monte carlo go**". Vol. 44. Syracuse, NY: Technical report, Physics Department, Syracuse University, (**1993**).
+    - Chaslot, Guillaume MJ-B. "**Parallel monte-carlo tree search**." International Conference on Computers and Games. Springer, Berlin, Heidelberg, (**2008**).
+    - Segal, Richard B. "**On the scalability of parallel UCT**." International Conference on Computers and Games. Springer, Berlin, Heidelberg, (**2010**).
+    - (**RAVE**)Gelly, Sylvain, and David Silver. "**Monte-Carlo tree search and rapid action value estimation in computer Go**." Artificial Intelligence 175.11 (**2011**): 1856-1875.
+    - Browne, Cameron B., et al. "**A survey of monte carlo tree search methods**." IEEE Transactions on Computational Intelligence and AI in games 4.1 (**2012**): 1-43.
 - **AlphaGo** 
     -  Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search**." [Nature 529.7587][47] (**2016**): 484-489. :star:
+        -  APV-MCTS
     -  Silver, David, et al. "**Mastering the game of go without human knowledge**." [Nature 550.7676][48] (**2017**): 354. :star:
     -  Silver, David, et al. "**Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**."  (**2017**). [[arXiv:1712.01815][49]] :star:
 - **More**
+    - Silver, David, Richard S. Sutton, and Martin Müller. "**Temporal-difference search in computer Go**." Machine learning 87.2 (**2012**): 183-219.
     - Lai, Matthew. "**Giraffe: Using deep reinforcement learning to play chess**." (**2015**). [arXiv:1509.01549][50] 
     -  Vinyals, Oriol, et al. "**StarCraft II: a new challenge for reinforcement learning**." (**2017**). [[arXiv:1708.04782][51]]    
     -  Maddison, Chris J., et al. "**Move evaluation in go using deep convolutional neural networks**." (**2014**). [[arXiv:1412.6564][52]]
-    -  Soeda, Shunsuke, Tomoyuki Kaneko, and Tetsuro Tanaka. "**Dual lambda search and shogi endgames**." Advances in Computer Games. Springer, Berlin, Heidelberg, (**2005**).
-    -  Cazenave, Tristan. "**Residual networks for computer Go.**" _IEEE Transactions on Games_ 10.1 (2018): 107-110.
+    -  Soeda, Shunsuke, Tomoyuki Kaneko. "**Dual lambda search and shogi endgames**." Advances in Computer Games. Springer, Berlin, Heidelberg, (**2005**).
+    -  (**Darkforest**)Tian, Yuandong, and Yan Zhu. "**Better computer go player with neural network and long-term prediction**." arXiv:1511.06410 (**2015**).
+    -  Cazenave, Tristan. "**Residual networks for computer Go.**" _IEEE Transactions on Games_ 10.1 (**2018**): 107-110.
+    -  Gao, Chao, Martin Müller, and Ryan Hayward. "**Three-Head Neural Network Architecture for Monte Carlo Tree Search**." IJCAI. **(2018)**.
+    -  (**ELF**)Tian, Yuandong, et al. "**Elf: An extensive, lightweight and flexible research platform for real-time strategy games**." Advances in Neural Information Processing Systems. (**2017**).
 
     
 ## Others 
@@ -100,6 +112,7 @@
 - [aymericdamien/TensorFlow-Examples][57]
 - [openai/baselines][58]
 - [rlcode/reinforcement-learning][59]
+- [Theory of Computer Games](http://www.iis.sinica.edu.tw/~tshsu/tcg/index.html)
 
 
   [1]: https://arxiv.org/abs/1312.4400
